@@ -1,4 +1,4 @@
-# MLOps Codelab with Airflow on GKE
+# LLMOps with Airflow on GKE
 
 ## Set environment variable
 ```
